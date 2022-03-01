@@ -1,0 +1,6 @@
+devel_space: /home/bci/ros_powerball/devel
+install: false
+install_space: /home/bci/ros_powerball/install
+profile: default
+source_space: /home/bci/ros_powerball/src
+workspace: /home/bci/ros_powerball

@@ -1,0 +1,8 @@
+prefix=/home/bci/ros_powerball/devel/.private/hardware_interface
+
+Name: hardware_interface
+Description: Description of hardware_interface
+Version: 0.13.5
+Cflags: -I/home/bci/ros_powerball/src/ros_control/hardware_interface/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

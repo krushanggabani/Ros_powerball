@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/lwa4p_config/share/lwa4p_config/cmake/lwa4p_configConfig-version.cmake

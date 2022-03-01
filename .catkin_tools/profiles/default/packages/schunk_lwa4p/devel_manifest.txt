@@ -1,0 +1,5 @@
+schunk_robots/schunk_lwa4p
+/home/bci/ros_powerball/devel/.private/schunk_lwa4p/cmake.lock /home/bci/ros_powerball/devel/./cmake.lock
+/home/bci/ros_powerball/devel/.private/schunk_lwa4p/share/schunk_lwa4p/cmake/schunk_lwa4pConfig.cmake /home/bci/ros_powerball/devel/share/schunk_lwa4p/cmake/schunk_lwa4pConfig.cmake
+/home/bci/ros_powerball/devel/.private/schunk_lwa4p/share/schunk_lwa4p/cmake/schunk_lwa4pConfig-version.cmake /home/bci/ros_powerball/devel/share/schunk_lwa4p/cmake/schunk_lwa4pConfig-version.cmake
+/home/bci/ros_powerball/devel/.private/schunk_lwa4p/lib/pkgconfig/schunk_lwa4p.pc /home/bci/ros_powerball/devel/lib/pkgconfig/schunk_lwa4p.pc

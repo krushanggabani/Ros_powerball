@@ -1,0 +1,5 @@
+lwa4p_config
+/home/bci/ros_powerball/devel/.private/lwa4p_config/cmake.lock /home/bci/ros_powerball/devel/./cmake.lock
+/home/bci/ros_powerball/devel/.private/lwa4p_config/share/lwa4p_config/cmake/lwa4p_configConfig-version.cmake /home/bci/ros_powerball/devel/share/lwa4p_config/cmake/lwa4p_configConfig-version.cmake
+/home/bci/ros_powerball/devel/.private/lwa4p_config/share/lwa4p_config/cmake/lwa4p_configConfig.cmake /home/bci/ros_powerball/devel/share/lwa4p_config/cmake/lwa4p_configConfig.cmake
+/home/bci/ros_powerball/devel/.private/lwa4p_config/lib/pkgconfig/lwa4p_config.pc /home/bci/ros_powerball/devel/lib/pkgconfig/lwa4p_config.pc

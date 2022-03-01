@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/socketcan_bridge/share/socketcan_bridge/cmake/socketcan_bridgeConfig-version.cmake

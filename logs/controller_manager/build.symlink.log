@@ -1,0 +1,5 @@
+Symlinking /home/bci/ros_powerball/devel/share/controller_manager/cmake/controller_managerConfig.cmake
+Symlinking /home/bci/ros_powerball/devel/share/controller_manager/cmake/controller_managerConfig-version.cmake
+Symlinking /home/bci/ros_powerball/devel/lib/libcontroller_manager.so
+Symlinking /home/bci/ros_powerball/devel/lib/python2.7/dist-packages/controller_manager/__init__.py
+Symlinking /home/bci/ros_powerball/devel/lib/pkgconfig/controller_manager.pc

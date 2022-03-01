@@ -1,0 +1,8 @@
+prefix=/home/bci/ros_powerball/devel/.private/schunk_lwa4p
+
+Name: schunk_lwa4p
+Description: Description of schunk_lwa4p
+Version: 0.5.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

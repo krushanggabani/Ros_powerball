@@ -1,0 +1,6 @@
+Symlinking /home/bci/ros_powerball/devel/share/canopen_master/cmake/canopen_masterConfig.cmake
+Symlinking /home/bci/ros_powerball/devel/share/canopen_master/cmake/canopen_masterConfig-version.cmake
+Symlinking /home/bci/ros_powerball/devel/lib/libcanopen_master.so
+Symlinking /home/bci/ros_powerball/devel/lib/libcanopen_master_plugin.so
+Symlinking /home/bci/ros_powerball/devel/lib/canopen_master/canopen_bcm_sync
+Symlinking /home/bci/ros_powerball/devel/lib/pkgconfig/canopen_master.pc

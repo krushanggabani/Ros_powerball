@@ -1,0 +1,7 @@
+ros_control/controller_manager
+/home/bci/ros_powerball/devel/.private/controller_manager/cmake.lock /home/bci/ros_powerball/devel/./cmake.lock
+/home/bci/ros_powerball/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig.cmake /home/bci/ros_powerball/devel/share/controller_manager/cmake/controller_managerConfig.cmake
+/home/bci/ros_powerball/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig-version.cmake /home/bci/ros_powerball/devel/share/controller_manager/cmake/controller_managerConfig-version.cmake
+/home/bci/ros_powerball/devel/.private/controller_manager/lib/libcontroller_manager.so /home/bci/ros_powerball/devel/lib/libcontroller_manager.so
+/home/bci/ros_powerball/devel/.private/controller_manager/lib/python2.7/dist-packages/controller_manager/__init__.py /home/bci/ros_powerball/devel/lib/python2.7/dist-packages/controller_manager/__init__.py
+/home/bci/ros_powerball/devel/.private/controller_manager/lib/pkgconfig/controller_manager.pc /home/bci/ros_powerball/devel/lib/pkgconfig/controller_manager.pc

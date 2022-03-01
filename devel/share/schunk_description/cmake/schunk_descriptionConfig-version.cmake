@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/schunk_description/share/schunk_description/cmake/schunk_descriptionConfig-version.cmake

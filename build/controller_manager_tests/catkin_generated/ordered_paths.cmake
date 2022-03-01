@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/bci/ros_powerball/devel/.private/controller_manager/lib;/opt/ros/kinetic/lib")

@@ -1,0 +1,12 @@
+Symlinking /home/bci/ros_powerball/devel/./local_setup.zsh
+Symlinking /home/bci/ros_powerball/devel/./env.sh
+Symlinking /home/bci/ros_powerball/devel/./cmake.lock
+Symlinking /home/bci/ros_powerball/devel/./local_setup.bash
+Symlinking /home/bci/ros_powerball/devel/./setup.bash
+Symlinking /home/bci/ros_powerball/devel/./_setup_util.py
+Symlinking /home/bci/ros_powerball/devel/./setup.sh
+Symlinking /home/bci/ros_powerball/devel/./local_setup.sh
+Symlinking /home/bci/ros_powerball/devel/./setup.zsh
+Symlinking /home/bci/ros_powerball/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/bci/ros_powerball/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/bci/ros_powerball/devel/lib/pkgconfig/catkin_tools_prebuild.pc

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bci/ros_powerball/devel/.private/lwa4p_config/setup.sh

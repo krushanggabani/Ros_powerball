@@ -1,0 +1,5 @@
+Symlinking /home/bci/ros_powerball/devel/share/canopen_402/cmake/canopen_402Config.cmake
+Symlinking /home/bci/ros_powerball/devel/share/canopen_402/cmake/canopen_402Config-version.cmake
+Symlinking /home/bci/ros_powerball/devel/lib/libcanopen_402.so
+Symlinking /home/bci/ros_powerball/devel/lib/libcanopen_402_plugin.so
+Symlinking /home/bci/ros_powerball/devel/lib/pkgconfig/canopen_402.pc

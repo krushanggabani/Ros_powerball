@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/schunk_lwa4p/share/schunk_lwa4p/cmake/schunk_lwa4pConfig-version.cmake

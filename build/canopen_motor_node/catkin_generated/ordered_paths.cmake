@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/bci/ros_powerball/devel/.private/canopen_402/lib;/home/bci/ros_powerball/devel/.private/canopen_master/lib;/home/bci/ros_powerball/devel/.private/socketcan_interface/lib;/home/bci/ros_powerball/devel/.private/canopen_chain_node/lib;/home/bci/ros_powerball/devel/.private/controller_manager/lib;/opt/ros/kinetic/lib")

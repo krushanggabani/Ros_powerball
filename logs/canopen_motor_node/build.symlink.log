@@ -1,0 +1,5 @@
+Symlinking /home/bci/ros_powerball/devel/share/canopen_motor_node/cmake/canopen_motor_nodeConfig-version.cmake
+Symlinking /home/bci/ros_powerball/devel/share/canopen_motor_node/cmake/canopen_motor_nodeConfig.cmake
+Symlinking /home/bci/ros_powerball/devel/lib/libcanopen_motor.so
+Symlinking /home/bci/ros_powerball/devel/lib/pkgconfig/canopen_motor_node.pc
+Symlinking /home/bci/ros_powerball/devel/lib/canopen_motor_node/canopen_motor_node

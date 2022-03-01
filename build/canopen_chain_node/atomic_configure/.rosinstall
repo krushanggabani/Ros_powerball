@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bci/ros_powerball/devel/.private/canopen_chain_node/setup.sh

@@ -1,0 +1,9 @@
+ros_canopen/socketcan_interface
+/home/bci/ros_powerball/devel/.private/socketcan_interface/cmake.lock /home/bci/ros_powerball/devel/./cmake.lock
+/home/bci/ros_powerball/devel/.private/socketcan_interface/share/socketcan_interface/cmake/socketcan_interfaceConfig-version.cmake /home/bci/ros_powerball/devel/share/socketcan_interface/cmake/socketcan_interfaceConfig-version.cmake
+/home/bci/ros_powerball/devel/.private/socketcan_interface/share/socketcan_interface/cmake/socketcan_interfaceConfig.cmake /home/bci/ros_powerball/devel/share/socketcan_interface/cmake/socketcan_interfaceConfig.cmake
+/home/bci/ros_powerball/devel/.private/socketcan_interface/lib/libsocketcan_interface_plugin.so /home/bci/ros_powerball/devel/lib/libsocketcan_interface_plugin.so
+/home/bci/ros_powerball/devel/.private/socketcan_interface/lib/libsocketcan_interface_string.so /home/bci/ros_powerball/devel/lib/libsocketcan_interface_string.so
+/home/bci/ros_powerball/devel/.private/socketcan_interface/lib/socketcan_interface/socketcan_bcm /home/bci/ros_powerball/devel/lib/socketcan_interface/socketcan_bcm
+/home/bci/ros_powerball/devel/.private/socketcan_interface/lib/socketcan_interface/socketcan_dump /home/bci/ros_powerball/devel/lib/socketcan_interface/socketcan_dump
+/home/bci/ros_powerball/devel/.private/socketcan_interface/lib/pkgconfig/socketcan_interface.pc /home/bci/ros_powerball/devel/lib/pkgconfig/socketcan_interface.pc

@@ -1,0 +1,4 @@
+Symlinking /home/bci/ros_powerball/devel/share/combined_robot_hw/cmake/combined_robot_hwConfig-version.cmake
+Symlinking /home/bci/ros_powerball/devel/share/combined_robot_hw/cmake/combined_robot_hwConfig.cmake
+Symlinking /home/bci/ros_powerball/devel/lib/libcombined_robot_hw.so
+Symlinking /home/bci/ros_powerball/devel/lib/pkgconfig/combined_robot_hw.pc

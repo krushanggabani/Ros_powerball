@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/canopen_motor_node/share/canopen_motor_node/cmake/canopen_motor_nodeConfig.cmake

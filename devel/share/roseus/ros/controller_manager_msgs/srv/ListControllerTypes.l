@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/controller_manager_msgs/share/roseus/ros/controller_manager_msgs/srv/ListControllerTypes.l

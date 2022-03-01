@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/canopen_master/share/canopen_master/cmake/canopen_masterConfig.cmake

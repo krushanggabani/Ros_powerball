@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig-version.cmake

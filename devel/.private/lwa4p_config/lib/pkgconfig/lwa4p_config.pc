@@ -1,0 +1,8 @@
+prefix=/home/bci/ros_powerball/devel/.private/lwa4p_config
+
+Name: lwa4p_config
+Description: Description of lwa4p_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,63 @@
+The Schunk lwa 4p powerball has a ros package - baud rate here is set to 500000
+
+Some useful information about the lwa4p is provided in: 
+https://www.roscomponents.com/en/robotic-arms/119-lwa-4p.html#/lwa4d_usb_can_card-1/lwa4d_adapter_end_effector-yes/lwa4d_caja_de_alimentacion_electrica-yes 
+
+Following are the instructions for the installation in ROS kinetic - Ubuntu 16.04 LTS
+
+1) https://ammarnajjar.github.io/development/2016/06/22/lwa4p-robot/
+
+warning: Don't use the git clone ros_canopen mentioned in this document (use it only if you have ROS Indigo and Ubuntu 14)
+
+For Ros kinetic on Ubuntu 16 use: git clone https://github.com/ipa-mdl/ros_canopen.git -b kinetic-devel - (kinetic-devel branch)
+
+2) Install Moveit configuration from the given documentation
+Note - install the required dedpendencies (using rosdep install .....)
+
+3) Setup the moveit configuration for the robot using moveit setup assistant
+http://docs.ros.org/kinetic/api/moveit_tutorials/html/doc/setup_assistant/setup_assistant_tutorial.html
+
+4) Follow the instructions for the low level controller 
+http://docs.ros.org/kinetic/api/moveit_tutorials/html/doc/controller_configuration/controller_configuration_tutorial.html
+
+5) Initialize the robot using:
+
+	a) roslaunch schunk_lwa4p robot.launch
+	b) rosservice call /arm/driver/init    -- To check the status of connection
+
+
+6) Move the robot arm using rviz
+	a) roslaunch lwa4p_moveit_config moveit_planning_execution.launch sim:=true 
+ 	for simulation in gazebo
+	
+	b) roslaunch lwa4p_moveit_config moveit_planning_execution.launch sim:=false
+	for real control of robot
+
+
+
+Can information:
+http://wiki.ros.org/socketcan_interface
+testing of canopen device 	: rosrun socketcan_interface socketcan_dump can0
+Netlink status (gives bitrate)  : ip -details -statistics link show can0
+set baudrate 			: sudo ip link set can0 up type can bitrate 500000 
+
+
+Moveit tutorials:
+http://docs.ros.org/kinetic/api/moveit_tutorials/html/doc/getting_started/getting_started.html
+
+if Moveit returns an error regarding pyassimp, following the instructions mentioned here:
+https://github.com/ros-planning/moveit/issues/86#issuecomment-263759173
+
+
+
+if the ros canopen has issues reconnecting, use the changes from the following link:
+https://github.com/ros-industrial/ros_canopen/compare/2872a0caeccadac25d6ce515d9c11bb2430058c6..2c0921176be27a9a21138350d8ebf96e4c1d197e
+
+
+Instructions to run the robot using moveit package:
+1) roslaunch schunk_lwa4p robot.launch
+2) rosservice call /arm/driver/init - Initialize canopen driver
+3) roslaunch dynamixel-workbench dynamixel_workbench_controllers.launch - Initialize dynamixel 
+4) rosrun beginner_tutorials test.py - Christmas tree decoration code
+
+5) rosservice call /arm/driver/shutdown - to shutdown canopen driver

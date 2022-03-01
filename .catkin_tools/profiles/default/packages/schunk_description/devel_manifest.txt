@@ -1,0 +1,5 @@
+schunk_robots/schunk_description
+/home/bci/ros_powerball/devel/.private/schunk_description/cmake.lock /home/bci/ros_powerball/devel/./cmake.lock
+/home/bci/ros_powerball/devel/.private/schunk_description/share/schunk_description/cmake/schunk_descriptionConfig-version.cmake /home/bci/ros_powerball/devel/share/schunk_description/cmake/schunk_descriptionConfig-version.cmake
+/home/bci/ros_powerball/devel/.private/schunk_description/share/schunk_description/cmake/schunk_descriptionConfig.cmake /home/bci/ros_powerball/devel/share/schunk_description/cmake/schunk_descriptionConfig.cmake
+/home/bci/ros_powerball/devel/.private/schunk_description/lib/pkgconfig/schunk_description.pc /home/bci/ros_powerball/devel/lib/pkgconfig/schunk_description.pc

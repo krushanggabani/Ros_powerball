@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/socketcan_interface/share/socketcan_interface/cmake/socketcan_interfaceConfig.cmake

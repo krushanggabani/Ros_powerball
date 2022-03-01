@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/can_msgs/share/roseus/ros/can_msgs/manifest.l

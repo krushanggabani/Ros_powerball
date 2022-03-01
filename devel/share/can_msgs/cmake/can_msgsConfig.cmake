@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/can_msgs/share/can_msgs/cmake/can_msgsConfig.cmake

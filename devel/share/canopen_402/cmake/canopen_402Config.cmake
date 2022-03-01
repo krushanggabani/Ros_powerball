@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/canopen_402/share/canopen_402/cmake/canopen_402Config.cmake

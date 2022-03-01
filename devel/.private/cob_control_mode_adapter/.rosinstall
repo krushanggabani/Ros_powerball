@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bci/ros_powerball/devel/.private/cob_control_mode_adapter/setup.sh

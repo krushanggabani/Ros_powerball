@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/cob_control_mode_adapter/share/cob_control_mode_adapter/cmake/cob_control_mode_adapterConfig-version.cmake

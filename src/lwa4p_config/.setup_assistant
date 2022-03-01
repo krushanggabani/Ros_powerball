@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: schunk_lwa4p
+    relative_path: urdf/robot.urdf.xacro
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/lwa4p.srdf
+  CONFIG:
+    author_name: krushang
+    author_email: krushgabani95@gmail.com
+    generated_timestamp: 1646090629

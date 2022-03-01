@@ -1,0 +1,3 @@
+Symlinking /home/bci/ros_powerball/devel/share/lwa4p_config/cmake/lwa4p_configConfig-version.cmake
+Symlinking /home/bci/ros_powerball/devel/share/lwa4p_config/cmake/lwa4p_configConfig.cmake
+Symlinking /home/bci/ros_powerball/devel/lib/pkgconfig/lwa4p_config.pc

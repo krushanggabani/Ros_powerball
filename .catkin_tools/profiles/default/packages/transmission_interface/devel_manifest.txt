@@ -1,0 +1,8 @@
+ros_control/transmission_interface
+/home/bci/ros_powerball/devel/.private/transmission_interface/cmake.lock /home/bci/ros_powerball/devel/./cmake.lock
+/home/bci/ros_powerball/devel/.private/transmission_interface/share/transmission_interface/cmake/transmission_interfaceConfig.cmake /home/bci/ros_powerball/devel/share/transmission_interface/cmake/transmission_interfaceConfig.cmake
+/home/bci/ros_powerball/devel/.private/transmission_interface/share/transmission_interface/cmake/transmission_interfaceConfig-version.cmake /home/bci/ros_powerball/devel/share/transmission_interface/cmake/transmission_interfaceConfig-version.cmake
+/home/bci/ros_powerball/devel/.private/transmission_interface/lib/libtransmission_interface_loader.so /home/bci/ros_powerball/devel/lib/libtransmission_interface_loader.so
+/home/bci/ros_powerball/devel/.private/transmission_interface/lib/libtransmission_interface_parser.so /home/bci/ros_powerball/devel/lib/libtransmission_interface_parser.so
+/home/bci/ros_powerball/devel/.private/transmission_interface/lib/libtransmission_interface_loader_plugins.so /home/bci/ros_powerball/devel/lib/libtransmission_interface_loader_plugins.so
+/home/bci/ros_powerball/devel/.private/transmission_interface/lib/pkgconfig/transmission_interface.pc /home/bci/ros_powerball/devel/lib/pkgconfig/transmission_interface.pc

@@ -1,0 +1,5 @@
+ros_control/controller_interface
+/home/bci/ros_powerball/devel/.private/controller_interface/cmake.lock /home/bci/ros_powerball/devel/./cmake.lock
+/home/bci/ros_powerball/devel/.private/controller_interface/share/controller_interface/cmake/controller_interfaceConfig.cmake /home/bci/ros_powerball/devel/share/controller_interface/cmake/controller_interfaceConfig.cmake
+/home/bci/ros_powerball/devel/.private/controller_interface/share/controller_interface/cmake/controller_interfaceConfig-version.cmake /home/bci/ros_powerball/devel/share/controller_interface/cmake/controller_interfaceConfig-version.cmake
+/home/bci/ros_powerball/devel/.private/controller_interface/lib/pkgconfig/controller_interface.pc /home/bci/ros_powerball/devel/lib/pkgconfig/controller_interface.pc

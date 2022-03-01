@@ -1,0 +1,4 @@
+Symlinking /home/bci/ros_powerball/devel/share/cob_control_mode_adapter/cmake/cob_control_mode_adapterConfig.cmake
+Symlinking /home/bci/ros_powerball/devel/share/cob_control_mode_adapter/cmake/cob_control_mode_adapterConfig-version.cmake
+Symlinking /home/bci/ros_powerball/devel/lib/cob_control_mode_adapter/cob_control_mode_adapter_node
+Symlinking /home/bci/ros_powerball/devel/lib/pkgconfig/cob_control_mode_adapter.pc

@@ -1,0 +1,1 @@
+/home/bci/ros_powerball/devel/.private/canopen_chain_node/lib/python2.7/dist-packages/canopen_chain_node/__init__.py

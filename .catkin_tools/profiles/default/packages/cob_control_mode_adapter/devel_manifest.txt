@@ -1,0 +1,6 @@
+cob_control/cob_control_mode_adapter
+/home/bci/ros_powerball/devel/.private/cob_control_mode_adapter/cmake.lock /home/bci/ros_powerball/devel/./cmake.lock
+/home/bci/ros_powerball/devel/.private/cob_control_mode_adapter/share/cob_control_mode_adapter/cmake/cob_control_mode_adapterConfig.cmake /home/bci/ros_powerball/devel/share/cob_control_mode_adapter/cmake/cob_control_mode_adapterConfig.cmake
+/home/bci/ros_powerball/devel/.private/cob_control_mode_adapter/share/cob_control_mode_adapter/cmake/cob_control_mode_adapterConfig-version.cmake /home/bci/ros_powerball/devel/share/cob_control_mode_adapter/cmake/cob_control_mode_adapterConfig-version.cmake
+/home/bci/ros_powerball/devel/.private/cob_control_mode_adapter/lib/cob_control_mode_adapter/cob_control_mode_adapter_node /home/bci/ros_powerball/devel/lib/cob_control_mode_adapter/cob_control_mode_adapter_node
+/home/bci/ros_powerball/devel/.private/cob_control_mode_adapter/lib/pkgconfig/cob_control_mode_adapter.pc /home/bci/ros_powerball/devel/lib/pkgconfig/cob_control_mode_adapter.pc

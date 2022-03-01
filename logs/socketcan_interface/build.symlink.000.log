@@ -1,0 +1,7 @@
+Symlinking /home/bci/ros_powerball/devel/share/socketcan_interface/cmake/socketcan_interfaceConfig-version.cmake
+Symlinking /home/bci/ros_powerball/devel/share/socketcan_interface/cmake/socketcan_interfaceConfig.cmake
+Symlinking /home/bci/ros_powerball/devel/lib/libsocketcan_interface_plugin.so
+Symlinking /home/bci/ros_powerball/devel/lib/libsocketcan_interface_string.so
+Symlinking /home/bci/ros_powerball/devel/lib/socketcan_interface/socketcan_bcm
+Symlinking /home/bci/ros_powerball/devel/lib/socketcan_interface/socketcan_dump
+Symlinking /home/bci/ros_powerball/devel/lib/pkgconfig/socketcan_interface.pc
